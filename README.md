@@ -2,5 +2,5 @@
 
 ### To start program type in console:
 ```sh
-$ node program.js
+$ node app/program.js
 ```
